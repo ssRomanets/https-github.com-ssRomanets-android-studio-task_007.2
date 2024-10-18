@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_007.2</string>
+    <string name="road_rules">Правила дорожного движения</string>
+    <string name="output_rules">Вывод правил</string>
+</resources>
